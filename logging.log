@@ -1,0 +1,25 @@
+2021-05-06 15:37:01,122 Program Execution
+2021-05-06 15:37:01,380 UI_MainWindow
+2021-05-06 15:37:20,436 UI Elements
+2021-05-06 15:37:26,130 open image 1
+2021-05-06 15:37:35,748 Opening image : C:/Users/user/Desktop/Image-Mixer-/images/perfect.jpg
+2021-05-06 15:37:36,274 image shape is(400, 400)
+2021-05-06 15:37:36,488 check image 1 size 
+2021-05-06 15:37:36,488 image size isNone
+2021-05-06 15:37:36,488 opened
+2021-05-06 15:37:36,491 plotting Magnitude of image 1
+2021-05-06 15:37:36,494 Checking if the user opens the 2 images
+2021-05-06 15:37:37,336 open image 2
+2021-05-06 15:37:43,346 Opening image : C:/Users/user/Desktop/Image-Mixer-/images/flower1.jpg
+2021-05-06 15:37:44,987 image shape is(400, 400)
+2021-05-06 15:37:45,037 check image 2 size 
+2021-05-06 15:37:45,038 there is another image obened
+2021-05-06 15:37:45,038 same size
+2021-05-06 15:37:45,038 opened
+2021-05-06 15:37:45,040 plotting Magnitude of image 2
+2021-05-06 15:37:45,043 Checking if the user opens the 2 images
+2021-05-06 15:37:45,044 Showing output image 
+2021-05-06 15:37:45,044 Where to show the output
+2021-05-06 15:37:45,044 checking the mixtype and scaling the component chosen
+2021-05-06 15:37:45,046 checking the mixtype and scaling the component chosen
+2021-05-06 15:37:45,048 combine the two mixers depending on the mixType
